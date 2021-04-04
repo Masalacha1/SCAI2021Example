@@ -1,4 +1,4 @@
-# This is a example of Recommener System that we created
+# This is a example of Recommender System that we created
 
 ## Description
 Recommended music tunes gradually change from“rock”-style music to “classics”-style music.
